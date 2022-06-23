@@ -1,0 +1,13 @@
+com\cesi\bloc\api\data\ICity.class
+com\cesi\bloc\api\data\EmployeeImpl.class
+com\cesi\bloc\api\employees\EmployeeDetails.class
+com\cesi\bloc\api\MainVerticle.class
+com\cesi\bloc\api\data\IJob.class
+com\cesi\bloc\api\dao\Employees.class
+com\cesi\bloc\api\EmployeeHandler.class
+com\cesi\bloc\api\data\CityImpl.class
+com\cesi\bloc\api\data\SimpleHttpResult.class
+com\cesi\bloc\api\dao\ConnectImpl.class
+com\cesi\bloc\api\data\IEmployee.class
+com\cesi\bloc\api\dao\IConnect.class
+com\cesi\bloc\api\data\JobImpl.class
